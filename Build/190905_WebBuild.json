@@ -1,0 +1,16 @@
+{
+"companyName": "Arrowstreet",
+"productName": "BarMercato",
+"dataUrl": "190905_WebBuild.data.unityweb",
+"wasmCodeUrl": "190905_WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "190905_WebBuild.wasm.framework.unityweb",
+"asmCodeUrl": "190905_WebBuild.asm.code.unityweb",
+"asmMemoryUrl": "190905_WebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "190905_WebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
